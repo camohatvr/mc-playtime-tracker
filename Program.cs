@@ -4,8 +4,8 @@ namespace MinecraftPlaytimeSummarizer
 {
     internal class Program
     {
-        const string savesPath = @"C:\Users\racco\AppData\Roaming\.minecraft\saves";
-        const string mcUUID = "787dd5ba-6fc2-4b2b-b49b-d76a5f17581f";
+        const string savesPath = @"C:\Users\User\AppData\Roaming\.minecraft\saves";
+        const string mcUUID = "your_uuid_here";
 
         //stats -> minecraft:custom -> minecraft:playtime (rep in ticks)
         //all located in world/stats/uuid.json
